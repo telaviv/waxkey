@@ -1,5 +1,5 @@
 Feature: blob
-  A class that has every attribute that can be referenced.
+  A class that can reference every attribute
 
   Scenario: Referencing an attribute
     Given a blob object and an attribute
